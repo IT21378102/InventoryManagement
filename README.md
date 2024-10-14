@@ -1,0 +1,1 @@
+This inventory system manages raw materials and finished products for Little Lanka Biscuits Company. It features real-time tracking and automated updates, optimizing stock levels and reducing waste. This project showcases my software development skills and ability to deliver practical solutions. 
